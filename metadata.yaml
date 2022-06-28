@@ -1,5 +1,8 @@
 _repo: On-chloroform-and-other-an0xe6sthetics-their-action-and-administration_68315
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68315-h/images/cover.jpg
 creator:
   author:
     agent_name: Snow, John
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '54713'
     url: http://www.gutenberg.org/2009/agents/54713
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68315#On-chloroform-and-other-an0xe6sthetics-their-action-and-administration
 gutenberg_issued: '2022-06-14'
 identifiers:
   gutenberg: '68315'
